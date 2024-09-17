@@ -9,6 +9,7 @@ Dentre tantas opções de comandos, temos a possibilidade de "Forkar", que no ca
 Outra opção de comando seria o "Branch", que te permite de trabalhar em um repositório sem fazer alterações diretas no projeto principal. Ao utilizar um branch, você pode colaborar no projeto ou corrigir problemas de forma isolada. O branch principal geralmente é chamado de "Main" ou "Master".
 
 <i>Comandos de branch:</i>
+
 git checkout -b nome-da-branch > Cria uma nova branch e acessa a mesma. 
 
 git branch > Mostra as branches que existem no projeto, com destaque na branch atual.
