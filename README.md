@@ -10,10 +10,10 @@ Outra opção de comando seria o "<b>Branch</b>", que te permite de trabalhar em
 
 <i>Comandos de branch:</i>
 
-<b>`git checkout -b nome-da-branch`</b> > Criar uma nova branch e acessa a mesma. 
+<b>`git checkout -b nome-da-branch`</b> > Cria uma nova branch e acessa a mesma. 
 
-<b>`git branch`</b> > Mostrar as branches que existem no projeto, com destaque na branch atual.
+<b>`git branch`</b> > Mostra as branches que existem no projeto, com destaque na branch atual.
 
-<b>`git checkout nome-da-branch`</b> > Alterar a branch.
+<b>`git checkout nome-da-branch`</b> > Altera a branch.
 
 Ao realizar qualquer alteração no seu repositório, clique na opção verde destacada "<b>Commit changes</b>" e ao aparecer um pop-up confirme que deseja salvar as modificações.
